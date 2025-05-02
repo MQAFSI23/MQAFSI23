@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello! 👋<br><br>I am a university student with a strong interest in **Machine Learning** and **Cyber Security**.
+# Hello! 👋<br><br>I am a university student with a strong interest in **Tech Stack**.
 
 
 ## 🌐 Socials:
